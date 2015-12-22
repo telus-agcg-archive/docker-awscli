@@ -6,8 +6,8 @@ Runs the `awscli` in an Alpine based docker image.
 
 Currently avaliable versions (by tag).
 
-* `latest` - `1.9.15`
-* `1.9.15` - `1.9.15`
+* `latest` - awscli version `1.9.15`
+* `1.9.15` - awscli version `1.9.15`
 
 # Usage
 
