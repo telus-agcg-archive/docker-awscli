@@ -1,5 +1,7 @@
 FROM alpine:latest
 
+MAINTAINER John Allen <john.allen@technekes.com>
+
 RUN wget "s3.amazonaws.com/aws-cli/awscli-bundle.zip" -O "awscli-bundle.zip" && \
     unzip awscli-bundle.zip && \
     apk add --update python && \
