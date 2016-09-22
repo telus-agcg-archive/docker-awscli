@@ -1,5 +1,8 @@
 # AWS Command Line Interface
 
+[![](https://images.microbadger.com/badges/image/technekes/awscli.svg)](https://microbadger.com/images/technekes/awscli "Get your own image badge on microbadger.com")
+[![](https://images.microbadger.com/badges/version/technekes/awscli.svg)](https://microbadger.com/images/technekes/awscli "Get your own version badge on microbadger.com")
+
 Runs the `awscli` in an Alpine based docker image.
 
 # Versions
